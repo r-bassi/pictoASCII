@@ -1,5 +1,9 @@
 # pictoASCII
 Turn your images into ASCII text representations with this python script  
+
+# Dependencies  
+Make sure you are on python3 and have [Pillow](https://pypi.org/project/Pillow/) installed  
+
 # Instructions  
 - Place your image into the folder that contains pictoASCII.py  
 - Open your command terminal and use the cd command to navigate to the folder  
