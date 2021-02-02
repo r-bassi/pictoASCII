@@ -8,7 +8,7 @@ from math import floor
 characters = "@%#*+=-:. "
 
 if len(argv) < 3:
-    print("Input sequence: python pictoASCII.py -scale pixelNumber imageFile.jpg outputFile.txt")
+    print("Input sequence: python3 -m pictoASCII.py -scale pixelNumber imageFile.jpg outputFile.txt")
     print("For more information see README.md")
     input()
     exit()
