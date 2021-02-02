@@ -14,5 +14,7 @@ Make sure you are on python3 and have [Pillow](https://pypi.org/project/Pillow/)
     - outputFile is the name of the file you want to save the ASCII representation to
 - Example input:  
 `$ python3 -m pictoASCII -scale 100 r-bassi.png r-bassi.txt`
+- If it does not work, try the command using just python instead of python3
 
+#### Done!
 Your image file is now saved as text in the output file that you specified. Enjoy!
